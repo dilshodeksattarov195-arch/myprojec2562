@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensncrypt",
+        "uuid": 1836954,
+        "checksum": "bf582g"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
